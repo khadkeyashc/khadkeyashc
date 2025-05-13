@@ -1,3 +1,4 @@
+![logo](https://github.com/khadkeyashc/khadkeyashc/blob/main/Yk_Banner.jpg)
 <h1 align="center">Hi 👋, I'm Yash Khadke</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif">
