@@ -3,7 +3,13 @@
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif">
 
-- 🔭Some of my projects [CarRentPro](https://github.com/khadkeyashc/CarRentPro)
+### 🛠️ Featured Projects
+
+- 🔹 [CarRentPro](https://github.com/khadkeyashc/CarRentPro)  
+  A peer-to-peer Java-based car rental system that connects individual car owners with organizations needing commercial vehicles.
+
+- 🔹 [eBidNow](https://github.com/khadkeyashc/eBidNow)  
+  A real-time online auction platform built with the MERN stack, featuring secure JWT authentication and live bidding via Socket.io.
 
 - 🌱 I’m currently learning **Springboot,Hibernate,Mern Stack,Power BI**
 
@@ -17,9 +23,15 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/yash-khadke-87394a227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yash-khadke-87394a227/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/khadkeyash88" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/khadkeyash88" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/bpdfol4cdt/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/bpdfol4cdt/" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/yash-khadke-87394a227/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash-khadke-87394a227" height="30" width="40" />
+  </a>
+  <a href="https://www.hackerrank.com/khadkeyash88" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="khadkeyash88" height="30" width="40" />
+  </a>
+  <a href="https://leetcode.com/bPDFoL4CdT/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bPDFoL4CdT" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
