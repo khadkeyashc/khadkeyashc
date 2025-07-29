@@ -12,7 +12,7 @@
   A real-time online auction platform built with the MERN stack, featuring secure JWT authentication and live bidding via Socket.io.
   
 -  🔹 [MindMeter](https://github.com/khadkeyashc/MindMeter)  
-  An intelligent Python-Django platform that empowers learning through adaptive quizzes, real-time feedback, and personalized assessments—designed to enhance education, training, and cognitive growth for all users.
+  An intelligent Python-Django platform that empowers learning through adaptive quizzes, real-time feedback, and personalized assessments—designed to enhance education, training, and cognitive growth.
 
 - 🌱 I’m currently learning **Springboot,Hibernate,Mern Stack,Power BI**
 
